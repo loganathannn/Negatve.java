@@ -6,8 +6,7 @@ public class Hell
     Scanner sc=new Scanner(System.in); 
     String b=sc.nextLine();
     int a=5;
-    for(int i=1
-    ;i<=a;i++)
+    for(int i=1;i<=a;i++)
     {
       System.out.println(b);  
     }
