@@ -1,5 +1,3 @@
-package c;
-
 import java.util.Scanner;
 public class Working {
 	public static void main(String[] args)
