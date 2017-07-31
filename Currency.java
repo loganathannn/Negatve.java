@@ -54,7 +54,7 @@ if(a<500)
 						 l = u%10;
 						 if(l<10)
 					
-				 v=(q+l+i+u1);int j=0;
+				 v=(q+l+i+u1);
 				
 						 if(v<0)
 						 {
