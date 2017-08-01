@@ -1,10 +1,10 @@
 import java.util.Scanner;
-public class Minus {
+public class minus {
 public static void main(String[] args)
 {
 	int max=0;
 	Scanner sc=new Scanner(System.in);
-	System.out.println("Enter the value");
+	System.out.println("Enter the number value in array");
 	int n=sc.nextInt();
 	int[] a=new int[n];
 	int[] p=new int[n];
@@ -24,7 +24,6 @@ for(int i = 0;i<n;i++)
 	{
 		max=p[i];
 	}}
-
-System.out.println(max);
+System.out.println(" Maximum difference between two numbers in the array"+max);
 }
 }
