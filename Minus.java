@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class minus {
+public class Minus {
 public static void main(String[] args)
 {
 	int max=0;
